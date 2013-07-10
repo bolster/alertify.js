@@ -1,0 +1,7 @@
+{
+    "name": "alertify",
+    "version": "0.4.0rc1",
+    "main": "dist/alertify.js",
+    "dependencies": {
+    }
+}

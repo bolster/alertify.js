@@ -1,0 +1,10 @@
+{
+  "name": "alertify",
+  "description": "browser dialogs never looked so good",
+  "version": "0.4.1",
+  "homepage": "http://fabien-d.github.com/alertify.js/",
+  "main": [
+    "dist/alertify.js",
+    "dist/themes/alertify.css"
+  ]
+}
